@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css">
+            <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+            <title>l0n3ly</title>
+        </head>
+    
+        <body>
+            <div class="narrative">
+                <p>
+                   0k13, i'll b g3ntl3 w u 
+                </p>
+            <img  src="assets/876574732_1291493.gif" width="700" class= center>
+                
+            </div>
+            <div class="selections">
+                <ol>
+                    <li class="options"><a href="o-next.html">></a></li>
+                </ol>
+            </div>
+        </body>
