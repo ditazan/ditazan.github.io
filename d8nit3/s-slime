@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <link rel="stylesheet" type="text/css" href="style.css">
+            <link href="https://fonts.googleapis.com/css?family=Major+Mono+Display" rel="stylesheet">
+            <title>l0n3ly</title>
+        </head>
+    
+        <body>
+            <div class="narrative">
+                <p>
+                   do u like sl1m3 ? 
+                </p>
+            <img  src="assets/sensi%20intro.gif" width="700" class= center>
+                
+            </div>
+            <div class="selections">
+                <ol>
+                    <li class="options"><a href="s-yes.html">yes</a></li>
+                    <li class="options"><a href="s-no.html">no</a></li>
+                </ol>
+            </div>
+        </body>
